@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Kudriavtsev-Eduard
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+
